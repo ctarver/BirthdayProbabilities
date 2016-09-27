@@ -12,6 +12,7 @@ We must look at this problem from the perspective of the number of pairs of peop
 If there are n people, then for every person there are n-1 people that each person can be paired with. In this scenario, order does not matter. Person 1 paired with person 3 is equivalent to person 3 paired with person 1. To prevent counting every pair twice, we divide by 2. The formula for counting the number of pairs of people becomes 1/2 * n * (n-1). 
 
 Then for 23 people, we have 23*22/2 = 253 pairs of people.
-The probability that 2 people have a different birthday is 364/365. The probability of 253 pairs of people having a different birthday is (364/365)^253. The probability of 253 pairs of people (or 23 people in a group) having at least 1 shared birthday is 1 - (364/365)^253 = 0.5005. This very closely agrees with the expiermental result.
 
-Check out this page for more: https://betterexplained.com/articles/understanding-the-birthday-paradox/
+Check out this page for more:
+https://betterexplained.com/articles/understanding-the-birthday-paradox/
+https://en.wikipedia.org/wiki/Birthday_problem
