@@ -13,6 +13,8 @@ If there are n people, then for every person there are n-1 people that each pers
 
 Then for 23 people, we have 23*22/2 = 253 pairs of people.
 
-Check out this page for more:
+Check out these pages for more:
+
 https://betterexplained.com/articles/understanding-the-birthday-paradox/
+
 https://en.wikipedia.org/wiki/Birthday_problem
